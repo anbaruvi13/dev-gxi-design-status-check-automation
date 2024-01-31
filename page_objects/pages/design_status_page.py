@@ -14,3 +14,4 @@ class DesignStatusPage(object):
 
     def design_status_check(self):
         print("This test run")
+        return True
